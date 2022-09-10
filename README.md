@@ -1,5 +1,6 @@
 # Car-Park-Puzzle
 Comparison of some algorithms to solve this puzzle game
+
 # Algorithms
 DFS
 
@@ -10,4 +11,4 @@ UCS
 A*
 
 # Output
-CMD no Gui
+CMD without GUI
